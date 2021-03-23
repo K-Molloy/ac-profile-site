@@ -26,8 +26,8 @@ experience:
     company: Gousto
     company_url: 'https://www.gousto.co.uk/'
     location: London
-    date_start: '2021-05'
-    date_end: '2021-09'
+    date_start: '2021-05-01'
+    date_end: '2021-09-01'
     description: |2-
         MSc Placement statistically modelling factory throughput influences
 
@@ -36,7 +36,7 @@ experience:
     company_url: 'https://www.lubrizol.com/'
     location: Remote
     date_start: '2021-01'
-    date_end: '2020-10'
+    date_end: '2020-10-01'
     description: |2-
         Led a team of 5 over a 4 month project, delegating tasks and programming frameworks
         Performed Robust modelling (RANSAC, Theil Sen, Ext.Random Trees) increasing model accuracy
@@ -47,7 +47,7 @@ experience:
     company: Tesco PLC
     company_url: ''
     location: St Helens, UK
-    date_start: '2020-04'
+    date_start: '2020-04-01'
     date_end: ''
     description: |2-
         Rotating and presenting Fresh stock daily, ready for purchase decreasing waste by 6%
@@ -57,8 +57,8 @@ experience:
     company: Starbucks EMEA
     company_url: ''
     location: Wigan, UK
-    date_start: '2019-02'
-    date_end: '2091-12'
+    date_start: '2019-02-01'
+    date_end: '2091-12-01'
     description: |2-
         Decreased Drive-Thru service times on-shift by 11%
         Led the team of 20 on two promotional product seasons
