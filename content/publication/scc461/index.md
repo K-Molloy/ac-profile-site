@@ -28,7 +28,7 @@ publication_types: ["1"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: whitebeam is a python module integrating decision tree classifying algorithms for small to medium scale supervised binary problems. This package focuses on bringing machine learning to nonspecialists wishing to implement their own variants of trees using a general-purpose high-level language. Emphasis is put on ease of use and API consistency with established package scikit-learn. Additionally a Particle Swarm Optimisation metaheuristic is used to determine if accuracy can be increased then compared against library implementations from scikit-learn. whitebeam performs well, and achieves similar accuracy scores in less time for some datasets.
+abstract: whitebeam is a python module integrating decision tree classifying algorithms for small to medium scale supervised binary problems. This package focuses on bringing machine learning to nonspecialists wishing to implement their own variants of trees using a general-purpose high-level language. Emphasis is put on ease of use and API consistency with established package scikit-learn. Additionally a Particle Swarm Optimisation metaheuristic is used to determine if accuracy can be increased then compared against library implementations from scikit-learn. whitebeam performs well, and achieves similar accuracy scores in less time for some datasets.
 
 
 # Summary. An optional shortened abstract.
