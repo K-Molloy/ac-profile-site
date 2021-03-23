@@ -29,6 +29,12 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
+  - name: Decision Trees
+    tag: Decision Trees
+  - name: Natural Language Processing
+    tag: Natural Language Processing
+  - name: Extreme Value Theory
+    tag: Extreme Value Theory
   - name: Other
     tag: Demo
 

@@ -14,7 +14,7 @@ organizations:
   url: https://www.lancaster.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: A highly competent data scientist involved in the Python and R open-source community. Passionate about unsupervised learning techniques. Looking for a role at a market-leading firm where machine learning can drive business value via groundbreaking analysis and interpretation of commercial data. 
+bio: A highly competent data scientist involved in the Python and R open-source community - passionate about unsupervised learning techniques.
 
 # Interests to show in About widget
 interests:
@@ -68,8 +68,8 @@ email: "kieran@kmlc.co.uk"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kieran Molloy is a postgraduate student of Data Science at Lancaster University UK. His research interests include unsupervised deep learning, decision trees and extreme value theory. He authored several open-source packages in his field which solve common problems faced by researchers. He is currently finishing his MSc by conducting his dissertation with Gousto and examining their factory throughput.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} I'm currently looking for a Data Science related job! \nGet my {{< staticref "media/cv.pdf" "newtab" >}}cv!{{< /staticref >}}.

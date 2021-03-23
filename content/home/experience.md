@@ -22,24 +22,45 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Data Scientist
+    company: Gousto
+    company_url: 'https://www.gousto.co.uk/'
+    location: London
+    date_start: '2021-05'
+    date_end: '2021-09'
+    description: |2-
+        MSc Placement statistically modelling factory throughput influences
+
+  - title: Lead Data Scientist
+    company: Lubrizol
+    company_url: 'https://www.lubrizol.com/'
+    location: Remote
+    date_start: '2021-01'
+    date_end: '2020-10'
+    description: |2-
+        Led a team of 5 over a 4 month project, delegating tasks and programming frameworks
+        Performed Robust modelling (RANSAC, Theil Sen, Ext.Random Trees) increasing model accuracy
+        by 5% whilst increasing resilience to outliers
+        Educated team on use of version control and project planning MS Projects
+        
+  - title: Night Replenishment Team Leader
+    company: Tesco PLC
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: St Helens, UK
+    date_start: '2020-04'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+        Rotating and presenting Fresh stock daily, ready for purchase decreasing waste by 6%
+        Accepting, checking and sorting incomes deliveries, increasing range availability by 10%
+
+  - title: Shift Supervisor
+    company: Starbucks EMEA
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Wigan, UK
+    date_start: '2019-02'
+    date_end: '2091-12'
+    description: |2-
+        Decreased Drive-Thru service times on-shift by 11%
+        Led the team of 20 on two promotional product seasons
+        Trained 4 new members of staff, increasing satisfaction by 4%
 ---
