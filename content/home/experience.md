@@ -35,7 +35,7 @@ experience:
     company: Lubrizol
     company_url: 'https://www.lubrizol.com/'
     location: Remote
-    date_start: '2021-01'
+    date_start: '2021-01-01'
     date_end: '2020-10-01'
     description: |2-
         Led a team of 5 over a 4 month project, delegating tasks and programming frameworks
