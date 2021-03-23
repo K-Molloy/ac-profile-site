@@ -44,9 +44,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/kieran_molloy
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/K-Molloy
@@ -71,4 +68,4 @@ highlight_name: false
 Kieran Molloy is a postgraduate student of Data Science at Lancaster University UK. His research interests include unsupervised deep learning, decision trees and extreme value theory. He authored several open-source packages in his field which solve common problems faced by researchers. He is currently finishing his MSc by conducting his dissertation with Gousto and examining their factory throughput.
 
 
-{{< icon name="download" pack="fas" >}} I'm currently looking for a Data Science related job! \nGet my {{< staticref "media/cv.pdf" "newtab" >}}cv!{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} I'm currently looking for a Data Science related role! Get my {{< staticref "media/cv.pdf" "newtab" >}}cv!{{< /staticref >}}.
