@@ -6,12 +6,12 @@ title: Kieran Molloy
 superuser: true
 
 # Role/position/tagline
-role: Data Science Researcher
+role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Lancaster University
-  url: https://www.lancaster.ac.uk/
+- name: Howz
+  url: https://www.howz.co.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: A highly competent data scientist involved in the Python and R open-source community - passionate about unsupervised learning techniques.
@@ -19,6 +19,7 @@ bio: A highly competent data scientist involved in the Python and R open-source 
 # Interests to show in About widget
 interests:
 - Unsupervised Deep Learning
+- Time Series Learning Algorithms
 - Decision Trees
 - Computer Vision
 - Extreme Value Theory
@@ -59,13 +60,12 @@ social:
   link: media/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "kieran@kmlc.co.uk"
+email: "kieran@kieranmolloy.co.uk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+I am a Data Scientist currently working [@Howz](https://www.howz.com), we are trying to revolutionise elderly care by allowing them to live independently for longer. I spend most days analysing time series data and finding new innovative ways to extract more information, my main projects include 'The Scorecard' - a simple, portable view allowing medical professionals to make informed decisions. 'Night Activity' - most elderly people are up at night, but what is an anomaly?. Prior to Howz, I gained my MSc at [Lancaster](https://www.lancaster.ac.uk) and worked with [Gousto](https://www.gousto.co.uk) to examine their factory throughput.
 
-Kieran Molloy is a postgraduate student of Data Science at Lancaster University UK. His research interests include unsupervised deep learning, decision trees and extreme value theory. He authored several open-source packages in his field which solve common problems faced by researchers. He is currently finishing his MSc by conducting his dissertation with Gousto and examining their factory throughput.
+Check out some of my publications or articles! 
 
-
-{{< icon name="download" pack="fas" >}} I'm currently looking for a Data Science related role! Get my {{< staticref "media/cv.pdf" "newtab" >}}cv!{{< /staticref >}}.
